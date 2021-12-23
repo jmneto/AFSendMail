@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SENDGRID_API_KEY": "{your SendGrid Api Key}",
+    "CONNECTION_STRING": "Server={your server}.postgres.database.azure.com;Database=testdb;Port=5432;User Id={your user}@{your server};Password={Your Password};Ssl Mode=Require;"
+  }
+}
